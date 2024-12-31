@@ -3,10 +3,7 @@
 
 Welcome to the **Ride Booking Data Analysis Project**! This project analyzes a **real-world dataset** from a ride-booking platform, showcasing **data cleaning**, **exploratory data analysis (EDA)**, and the creation of an interactive **Power BI dashboard** to provide actionable insights for solving real-world business problems. 🚀
 
----
-<div style="text-align: center;">
-    <img src="image.png" alt="alt text" width="600" height="130">
-</div>
+
 
 ## 🌟 Project Overview
 The goal of this project is to:
