@@ -1,4 +1,3 @@
-# Uber-Rides
 # 🚕 UBER Rides: End-to-End Analytics for Enhancing Ride-Booking Efficiency 🛠️
 
 Welcome to the **Ride Booking Data Analysis Project**! This project analyzes a **real-world dataset** from a ride-booking platform, showcasing **data cleaning**, **exploratory data analysis (EDA)**, and the creation of an interactive **Power BI dashboard** to provide actionable insights for solving real-world business problems. 🚀
@@ -18,6 +17,11 @@ The goal of this project is to:
 - **SQL 🗃️**: EDA and advanced query analysis using PostgreSQL.
 - **Power Query**: ETL (Extract, Transform, Load) for Power BI integration and new measures calculation.
 - **Power BI 📊**: Interactive dashboards for data visualization and reporting.
+
+
+<div style="text-align: center;">
+    <img src="uber power bi.jpg" alt="alt text">
+</div>
 
 👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYzA5ODVmZmItYTkxMi00NmEzLTgwNmItZjhhMGIwOGNmY2IzIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9&pageName=8d6b3ce8e13d3a7f99b3)**
 
